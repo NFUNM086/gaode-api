@@ -9,7 +9,7 @@
 
 
 import requests
-key_xjh = '09d1e77764857e958141e1c012a7e358'
+key_xjh = '你申请的key'
 
 # 地理编码
 def geo(add:str,city:str)-> dict:
