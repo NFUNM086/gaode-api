@@ -223,7 +223,7 @@ traffic('2','116.351147,39.966309;116.357134,39.968727')
 
 def geofence():
     """创建围栏"""
-    url='http://restapi.amap.com/v4/geofence/meta?key=09d1e77764857e958141e1c012a7e358'
+    url='http://restapi.amap.com/v4/geofence/meta?key=你申请的key'
     params={
         'name':'围栏名称',
         'center':'113.293046,23.103682',
